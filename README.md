@@ -66,7 +66,7 @@ Guarantees optimal path if heuristic is admissible.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Search-Algorithms.git
+   git clone https://github.com/Rikhil777/Search_Algorithms.git
 
 2. Compile the desired algorithm.
     ```bash
