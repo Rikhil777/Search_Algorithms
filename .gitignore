@@ -1,0 +1,37 @@
+# VS Code settings
+.vscode/
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.pdb
+*.idb
+
+# Backup files
+*~
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Build directories
+build/
+dist/
